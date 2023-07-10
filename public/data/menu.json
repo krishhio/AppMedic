@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Medicine",
+    "groupTitle": true
+  },
+  {
+    "title": "Principal",
+    "icon": {
+      "class": "icofont-thermometer-alt"
+    },
+    "routing": "default-dashboard"
+  },
+  {
+    "title": "Agenda",
+    "icon": {
+      "class": "icofont-stethoscope-alt"
+    },
+    "routing": "appointments"
+  },
+  {
+    "title": "Doctores",
+    "icon": {
+      "class": "icofont-doctor"
+    },
+    "routing": "doctors"
+  },
+  {
+    "title": "Odontograma",
+    "icon": {
+      "class": "icofont-nurse"
+    },
+    "routing": "odontograma"
+  },
+  {
+    "title": "Pacientes",
+    "icon": {
+      "class": "icofont-paralysis-disability"
+    },
+    "routing": "patients"
+  },
+  {
+    "title": "Facturacion",
+    "icon": {
+      "class": "icofont-pay"
+    },
+    "routing": "payments"
+  }
+]
